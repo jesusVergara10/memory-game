@@ -1,7 +1,6 @@
 import React from "react";
 import "./card.css"
 
-const handleClick = () => {};
 
 const Card = ({ card, handleChoice, flipped, disabled }) => {
 
